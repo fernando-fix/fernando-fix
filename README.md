@@ -6,9 +6,9 @@
 
 🔵 I am 33 years old and I live in Sorocaba-SP 
 
-🔵 I would like to become a PHP developer (Studying since november/2021)
+🔵 I would like to become a PHP developer (Studying since November/2021)
 
-🔵 I am an Intermediate English student - (studying since february/2022, A2->B1)
+🔵 I am an Intermediate English student - (Studying since February/2022, A2->B1)
 
 ## ✅ Contact me:
 
@@ -43,7 +43,7 @@ alt="">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"
 alt="">
 
-## ✅ Tools that what I use:
+## ✅ Tools that I use:
 
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white"
 alt="">

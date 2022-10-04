@@ -8,7 +8,7 @@
 
 🔵 I would like to become a PHP developer (Studying since 2021-nov)
 
-🔵 I am an intermediate english speaker (studying since 2022-feb)
+🔵 I am an intermediate english student - (studying since 2022-feb, A2->B1)
 
 ## ✅ Contact me:
 

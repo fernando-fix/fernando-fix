@@ -43,24 +43,7 @@ alt="">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"
 alt="">
 
-## ✅ Tools that I use:
+## ✅ What I am studying now:
 
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white"
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
 alt="">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"
-alt="">
-
-## ✅ What I am going to study soon:
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"
-alt="">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"
-alt="">
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
-alt="">
-
-## ✅ Workspace Spec:
-
-<img alt="amd" src="https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-<img alt="gtx1660" src="https://img.shields.io/badge/AMD-RX590_8GB-ED1C24?style=for-the-badge&logo=AMD&logoColor=white">
-<img alt="win10" src="https://img.shields.io/badge/SO-Windows 10-0078D6?style=for-the-badge&logo=windows&logoColor=white">

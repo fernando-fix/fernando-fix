@@ -1,16 +1,18 @@
-# Hello, I am Fernando Rodrigues 👋
+# Olá, meu nome é Fernando 👋
 
-### Welcome to my repository
+### Seja bem vindo ao meu repositório
 
-## ✅About me:
+## ✅Sobre mim:
 
-🔵 I am 34 years old and I live in Sorocaba-SP 
+🔵 Tenho 34 anos e moro em Sorocaba-SP 
 
-🔵 I would like to become a PHP developer
+🔵 Tenho um forte desejo de me tornar um desenvolvedor Full Stack
 
-🔵 I am an Intermediate English student - (Studying every week)
+🔵 Falo inglês no nível intermediário
 
-## ✅ Contact me:
+🔵 Atuo como freelancer na stack PHP/Laravel
+
+## ✅ Contato:
 
 <a href="https://wa.me/5515988119308"><!-- WhatsApp contact -->
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="">
@@ -24,7 +26,7 @@
     alt="">
 </a>
 
-## ✅ GitHub Stats:
+## ✅ GitHub:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-fix&layout=compact&langs_count=7&theme=dracula"/>
 
@@ -38,14 +40,9 @@ alt="">
 alt="">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"
 alt="">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"
-alt="">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"
 alt="">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
 alt="">
-
-## ✅ What I am studying now:
-
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
 alt="">

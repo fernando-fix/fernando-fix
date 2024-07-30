@@ -4,13 +4,11 @@
 
 ## ✅Sobre mim:
 
-🔵 Tenho 34 anos e moro em Sorocaba-SP 
+🔵 Tenho 35 anos e moro em Sorocaba-SP 
 
-🔵 Tenho um forte desejo de me tornar um desenvolvedor Full Stack
+🔵 Atuo na área de desenvolvimento de software
 
 🔵 Falo inglês no nível intermediário
-
-🔵 Atuo como freelancer na stack PHP/Laravel
 
 ## ✅ Contato:
 

@@ -4,11 +4,11 @@
 
 ## ✅Sobre mim:
 
-🔵 Tenho 35 anos e moro em Sorocaba-SP 
+🔵 Tenho 36 anos e moro em Sorocaba-SP 
 
 🔵 Atuo na área de desenvolvimento de software
 
-🔵 Falo inglês no nível intermediário
+🔵 Inglês nível intermediário
 
 ## ✅ Contato:
 
@@ -36,6 +36,8 @@ alt="">
 alt="">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"
 alt="">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"
+alt="">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"
 alt="">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"
@@ -44,3 +46,8 @@ alt="">
 alt="">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
 alt="">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+alt="">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"
+alt="">
+
